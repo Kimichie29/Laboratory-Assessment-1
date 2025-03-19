@@ -27,7 +27,7 @@ Responsive Design: Ensures the website adapts to different screen sizes for an o
 ## Setup Instructions
 
 Download or Clone the Repository
-git clone https://github.com/your-repo/all-about-cats.git
+git clone [https://github.com/your-repo/all-about-cats.git](https://github.com/Kimichie29/Laboratory-Assessment-1.git)
 
 Navigate to the Project Directory
 cd all-about-cats
