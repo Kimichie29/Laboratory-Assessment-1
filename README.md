@@ -1,4 +1,4 @@
-# Laboratory Assessment 1
+# Laboratory Assessment 1 - All About Cats
 
 ## Project Description
 
