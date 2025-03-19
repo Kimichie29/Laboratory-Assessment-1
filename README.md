@@ -13,7 +13,15 @@ Responsive Design: Ensures the website adapts to different screen sizes for an o
 - Footer: Includes copyright information and branding.
 - Styled with CSS: Uses an external stylesheet to enhance visual appeal and readability.
 
-
+## List of Semantic Elements Used
+- header : Contains the title and introduction of the webpage.
+- nav : Provides navigation links to different sections of the site.
+- main : Holds the main content of the page.
+- section : Groups related content together.
+- article : Contains specific, standalone information about cat breeds.
+- aside : Displays additional fun facts about cats.
+- footer : Includes copyright information and site credits.
+  
 ## Setup Instructions
 
 Download or Clone the Repository
@@ -26,6 +34,11 @@ Open the HTML File in a Browser
 - Locate the index.html file in the project folder.
 - Double-click to open it in your default web browser.
 - Alternatively, right-click the file and choose "Open with" to select a specific browser.
+
+## Technologies Used
+- HTML5: For structuring the webpage.
+- CSS3: For styling and layout design.
+- W3C Validator: For validating the HTML file
 
 
 
